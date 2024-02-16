@@ -26,4 +26,4 @@ Es werden regelmäßig neue Videos hinzugefügt.
 > Lesen Sie hierzu die
 > 
 > * [Tutorials zur Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de) für Anleitungen zur Campaign-Konsole
-> * [Adobe Campaign-Webdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) Weitere Informationen zur Campaign-Webbenutzeroberfläche.
+> * [Adobe Campaign-Webdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) Weitere Informationen zur Campaign-Webbenutzeroberfläche.

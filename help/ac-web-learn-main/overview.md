@@ -4,7 +4,7 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Es werden regelmäßig neue Videos hinzugefügt.
 > Lesen Sie hierzu die
 > 
 > * [Tutorials zur Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de) für Anleitungen zur Campaign-Konsole
-> * [Adobe Campaign-Webdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de) Weitere Informationen zur Campaign-Webbenutzeroberfläche.
+> * [Adobe Campaign-Webdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) Weitere Informationen zur Campaign-Webbenutzeroberfläche.
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>

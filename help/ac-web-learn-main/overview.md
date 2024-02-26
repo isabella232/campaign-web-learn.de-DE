@@ -4,18 +4,18 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
+source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 99%
+source-wordcount: '240'
+ht-degree: 79%
 
 ---
 
 # Adobe Campaign Web-Benutzeroberfläche
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen der Adobe Campaign Web-Benutzeroberfläche.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen und Features der Adobe Campaign-Web-Benutzeroberfläche. Regelmäßig werden neue Videos hinzugefügt.
 
-Es werden regelmäßig neue Videos hinzugefügt.
+Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen sowie die Verbindung zu anderen Systemen werden in der Campaign-Client-Konsole verwaltet. Daher können einige Einstellungen und Funktionen nur über die Campaign-Client-Konsole aufgerufen, erstellt oder verwaltet werden. Siehe Handbuch (Campaign Web und Client Console)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] für einen Überblick über die künftigen Einstellungen und Funktionen.
 
 >[!INFO]
 > 
@@ -23,8 +23,7 @@ Es werden regelmäßig neue Videos hinzugefügt.
 >
 >
 > Diese Tutorials sind nicht das, was Sie suchen?
-> Weitere Informationen finden Sie in
-> 
+> Siehe
 > * den [Tutorials für die Campaign Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de), wo es Anleitungen zur Campaign-Konsole gibt
 > * der [Adobe Campaign Web-Dokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html), wo Sie weitere Informationen zur Campaign Web-Benutzeroberfläche erhalten.
 

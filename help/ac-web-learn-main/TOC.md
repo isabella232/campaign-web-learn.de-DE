@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 88%
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 88%
 + Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Zielgruppen verwalten und erstellen](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Erstellen einer Zielgruppe mit Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Erstellen eines Zielgruppen-Workflows](/help/workflows/create-a-targeting-workflow.md)
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)

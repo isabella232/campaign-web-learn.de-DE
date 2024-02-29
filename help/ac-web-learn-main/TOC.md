@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
+source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 94%
+source-wordcount: '90'
+ht-degree: 88%
 
 ---
 
@@ -21,8 +21,12 @@ ht-degree: 94%
 + Nachrichten und Sendungen {#messages-and-deliveries}
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
+   + [Erstellen einer E-Mail durch Hochladen von HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Erstellen und Verbessern von E-Mail-Inhalten mit dem Inhaltsassistenten](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Zielgruppen verwalten und erstellen](/help/profiles-and-audiences/manage-and-build-audiences.md)
++ Workflows {#workflows}
+   + [Erstellen eines Zielgruppen-Workflows](/help/workflows/create-a-targeting-workflow.md)
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
+

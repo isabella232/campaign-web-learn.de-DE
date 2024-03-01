@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 44ebccd588fbf418a2a1004078ca95d408d2f20c
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 68%
@@ -31,6 +31,6 @@ ht-degree: 68%
 + Workflows {#workflows}
    + [Erstellen eines Zielgruppen-Workflows](/help/workflows/create-a-targeting-workflow.md)
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
-+ [Experience League Live-Aufnahmen]{#exl-live-recordings}
++ Experience League Live-Aufnahmen {#exl-live-recordings}
    + [Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 

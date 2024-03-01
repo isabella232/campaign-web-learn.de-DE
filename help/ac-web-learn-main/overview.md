@@ -4,10 +4,10 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 9a413682a42f04dd3e36fce70ae34b11897b460c
+source-git-commit: bec58452e62291152487a1d588bfdabf1a9a6183
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 67%
+ht-degree: 59%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 67%
 
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen und Features der Adobe Campaign-Web-Benutzeroberfläche. Regelmäßig werden neue Videos hinzugefügt.
 
-Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen sowie die Verbindung zu anderen Systemen werden in der Campaign-Client-Konsole verwaltet. Daher können einige Einstellungen und Funktionen nur über die Campaign-Client-Konsole aufgerufen, erstellt oder verwaltet werden. Siehe [Handbuch für Campaign Web und Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=de) für einen Überblick über die künftigen Einstellungen und Funktionen.
+Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen sowie die Verbindung zu anderen Systemen werden in der Campaign-Client-Konsole verwaltet. Daher können einige Einstellungen und Funktionen nur über die Campaign-Client-Konsole aufgerufen, erstellt oder verwaltet werden. Siehe [Handbuch für Campaign Web und Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=de){target="_blank"} für einen Überblick über die künftigen Einstellungen und Funktionen.
 
 >[!INFO]
 > 
-> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im **[Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)**.
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im **[Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**.
 >
 >
 > Diese Tutorials sind nicht das, was Sie suchen?
 > Siehe
-> * den [Tutorials für die Campaign Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de), wo es Anleitungen zur Campaign-Konsole gibt
-> * der [Adobe Campaign Web-Dokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de), wo Sie weitere Informationen zur Campaign Web-Benutzeroberfläche erhalten.
+> * [Tutorials zur Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"} für Anleitungen zur Campaign-Konsole
+> * [Adobe Campaign-Webdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de){target="_blank"} Weitere Informationen zur Campaign-Webbenutzeroberfläche.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -39,7 +39,7 @@ Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen so
 
 ## Experience League-Live-Ereignisse
 
-* **[Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+* **[Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
 
   *Erfahren Sie, wie Sie kanalübergreifende Kampagnen im neuen Benutzererlebnis planen, starten und messen können.*
 

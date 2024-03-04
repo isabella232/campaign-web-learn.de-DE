@@ -1,17 +1,17 @@
 ---
-title: Tutorials zur Adobe Campaign-Webbenutzeroberfläche
+title: Tutorials für die Adobe Campaign Web-Benutzeroberfläche
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen der Adobe Campaign Web-Benutzeroberfläche.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: bec58452e62291152487a1d588bfdabf1a9a6183
+source-git-commit: 93b8eff49c10418cb3e6fc443e109748cfa1fbd8
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 59%
+ht-degree: 63%
 
 ---
 
-# Tutorials zur Adobe Campaign-Webbenutzeroberfläche
+# Tutorials für die Adobe Campaign Web-Benutzeroberfläche
 
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen und Features der Adobe Campaign-Web-Benutzeroberfläche. Regelmäßig werden neue Videos hinzugefügt.
 
